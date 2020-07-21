@@ -6,9 +6,10 @@ I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment archit
 
 - Cloud: Microsoft Azure 
 - CI/CD Tools: Jenkins, Azure Pipelines, CircleCI, GitLab
+- Static Code Analysis: SonarQube
 - Containerization Tools: Docker
 - Container Orchestration Tools: Kubernetes
-- Ansible
+- Configuration Management: Ansible
     
 
 ### 🌱 I’m currently learning 
