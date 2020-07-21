@@ -3,34 +3,33 @@ I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment archit
 
 
 ### 🔭 Expertise
-    Microsoft Azure 
-    Jenkins
-    Docker
-    Kubernetes
-    Ansible
+
+- Cloud: Microsoft Azure 
+- CI/CD Tools: Jenkins, Azure Pipelines, CircleCI, GitLab
+- Containerization Tools: Docker
+- Container Orchestration Tools: Kubernetes
+- Ansible
     
 
 ### 🌱 I’m currently learning 
-    AZ-400
+
+- AZ-400
     
 ### 👯 I’m looking to collaborate on 
-    Open Source Chat Bot Projects for DevOps ie. ChatOps
-    AIOps and MLOps
+
+- Open Source Chat Bot Projects for DevOps ie. ChatOps
+- AIOps and MLOps
     
-- 🤔 I’m looking for help with 
-
-
 ### 📫 How to reach me: 
-    Medium: https://medium.com/@27aadesh/
-    LinkedIn: https://www.linkedin.com/in/27aadesh/
-    GitHub: https://github.com/27aadesh/
-    Gmail: 27aadesh@gmail.com
-    Twitter: https://twitter.com/27aadesh
-    Instagram: https://www.instagram.com/27aadesh/
-    StackOverflow: https://stackoverflow.com/users/13279519/aadesh-jain
-    Youtube: https://www.youtube.com/channel/UCv1xtGrQyKm0aXxa_xV3Rig/
+
+- Medium: https://medium.com/@27aadesh/
+- LinkedIn: https://www.linkedin.com/in/27aadesh/
+- GitHub: https://github.com/27aadesh/
+- Gmail: 27aadesh@gmail.com
+- Twitter: https://twitter.com/27aadesh
+- Instagram: https://www.instagram.com/27aadesh/
+- StackOverflow: https://stackoverflow.com/users/13279519/aadesh-jain
+- Youtube: https://www.youtube.com/channel/UCv1xtGrQyKm0aXxa_xV3Rig/
   
-    
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   
 
