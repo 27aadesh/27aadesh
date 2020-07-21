@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment architecture, microservices, containers and cloud-native technology.I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned about Software Development and DevOps on using Medium Blogs and Youtube. I like to build small applications, CICD, Setup different tools, and document everything on medium.
 
-<!--
-**27aadesh/27aadesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🔭 Expertise
     Microsoft Azure 
@@ -35,4 +33,4 @@ I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment archit
     
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
