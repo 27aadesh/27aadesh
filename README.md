@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment architecture, microservices, containers and cloud-native technology.I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned about Software Development and DevOps on using Medium Blogs and Youtube. I like to build small applications, CICD, Setup different tools, and document everything on medium.
+I am Aadesh Jain, a Cloud DevOps Engineer who is interested in deployment architecture, microservices, containers and cloud-native technology.I encourage the use of automation wherever possible and I think that everything can be automated. I want to share everything I've learned about Software Development and DevOps using Medium Blogs and Youtube. I like to build small applications, CICD, Setup different tools, and document everything on medium.
 
 
 ### 🔭 Expertise
