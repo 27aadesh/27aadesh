@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Aadesh Jain  
-🚀 **Senior Consultant – DevOps | MLOps Engineer**  
-with over 7+ years of hands-on experience in designing, automating, and deploying scalable cloud infrastructure and ML pipelines across Azure and AWS. Skilled in Infrastructure as Code (Terraform), CI/CD (Azure DevOps, GitHub Actions), and container orchestration (Kubernetes). Experienced in operationalizing machine learning workflows using MLflow, Docker, and Kubernetes for reproducible model training and deployment.
+🚀 **Senior Consultant – DevOps | MLOps Engineer with over 7+ years of hands-on experience in designing, automating, and deploying scalable cloud infrastructure and ML pipelines across Azure and AWS. Skilled in Infrastructure as Code (Terraform), CI/CD (Azure DevOps, GitHub Actions), and container orchestration (Kubernetes). Experienced in operationalizing machine learning workflows using MLflow, Docker, and Kubernetes for reproducible model training and deployment.**  
 
 ### 🛠️ Skills & Technologies  
 
